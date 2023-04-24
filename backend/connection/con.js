@@ -1,2 +1,2 @@
 const mongoose  = require("mongoose")
-mongoose.connect("mongodb+srv://iqbalsardar16796:IqbalSingh16796@cluster0.th2p2qq.mongodb.net/crudbk?retryWrites=true&w=majority").then(()=> console.log("connected"));
+mongoose.connect("").then(()=> console.log("connected"));
